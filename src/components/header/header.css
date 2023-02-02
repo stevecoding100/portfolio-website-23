@@ -1,0 +1,116 @@
+header {
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.header__container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+.header__container h5 {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.bold__text {
+    font-weight: 600;
+}
+
+
+/* ===========  CTA =========== */
+
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+}
+
+
+/* ===========  Socials =========== */
+
+.header__socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    left: 0;
+    bottom: 3rem;
+}
+
+.header__socials::after {
+    content: "";
+    width: 1px;
+    height: 2rem;
+    border-radius: 4px;
+    background-color: var(--color-primary);
+}
+
+
+/* =========== Hero Image =========== */
+
+.me {
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 22rem;
+    height: 32rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 4rem;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 0.9rem 0 14px 2.2rem;
+}
+
+
+/* ===========  Scroll Down =========== */
+
+.scroll__down {
+    position: absolute;
+    right: -2.3rem;
+    bottom: 5rem;
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
+
+/* ================ Media Queries (Medium Devices) ==============*/
+
+@media screen and (max-width: 1024px) {
+    header {
+        height: 68vh;
+    }
+    .header__container h1 {
+        font-size: 2.3rem;
+    }
+    .header__container h5 {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 486px;
+        margin: 0 auto;
+    }
+}
+
+
+/* ================ Media Queries (Small Devices) ==============*/
+
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+    .header__socials,
+    .scroll__down {
+        display: none;
+    }
+    .header__container .text-light {
+        width: 350px;
+        margin-top: 10px;
+    }
+    .me {
+        padding: 0.9rem 0 0 4rem;
+    }
+}
