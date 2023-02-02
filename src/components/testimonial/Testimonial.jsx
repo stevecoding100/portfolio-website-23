@@ -24,7 +24,7 @@ const data = [
     avatar: AVTR2,
     name: "Lorena",
     review:
-      "Have such great talents when it comes to designing and thinking outside the box, very punctual with assignments assigned overall I had such great experience",
+      "Have such great talents when it comes to designing and thinking outside the box. Very punctual with assignments assigned overall I had such great experience",
   },
   {
     avatar: AVTR3,
