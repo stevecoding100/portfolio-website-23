@@ -24,7 +24,7 @@ const data = [
     avatar: AVTR2,
     name: "Lorena",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquod eaque alias temporibus. Corrupti sequi possimus magni totamveniam",
+      "Have such great talents when it comes to designing and thinking outside the box, very punctual with assignments assigned overall I had such great experience",
   },
   {
     avatar: AVTR3,

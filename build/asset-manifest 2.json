@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-23/static/css/main.18719613.css",
+    "main.js": "/portfolio-website-23/static/js/main.f4bbdbde.js",
+    "static/media/me.png": "/portfolio-website-23/static/media/me.d8890400def370d214e3.png",
+    "static/media/chew.jpg": "/portfolio-website-23/static/media/chew.2f3205754f614ed3e43b.jpg",
+    "static/media/lorena.jpg": "/portfolio-website-23/static/media/lorena.ba18ecf31bfaa4159c17.jpg",
+    "static/media/infinite-scroll.jpg": "/portfolio-website-23/static/media/infinite-scroll.a6db5aeeef6c82673171.jpg",
+    "static/media/jarrive.jpg": "/portfolio-website-23/static/media/jarrive.a61803fc096390569b32.jpg",
+    "static/media/bryan.jpg": "/portfolio-website-23/static/media/bryan.808e47af684593224aff.jpg",
+    "static/media/cv.pdf": "/portfolio-website-23/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me-about.jpg": "/portfolio-website-23/static/media/me-about.e7f517957676c79f6a47.jpg",
+    "static/media/dog-api.jpg": "/portfolio-website-23/static/media/dog-api.d40b8f3f0301a06a65b5.jpg",
+    "static/media/ecommerce-app.jpg": "/portfolio-website-23/static/media/ecommerce-app.51dff893a69e271cf8c4.jpg",
+    "static/media/nicole.jpg": "/portfolio-website-23/static/media/nicole.8e4e7d53e1c85faec053.jpg",
+    "static/media/robot-joke.jpg": "/portfolio-website-23/static/media/robot-joke.1a2ad3b2f41f1b0bebb1.jpg",
+    "index.html": "/portfolio-website-23/index.html",
+    "main.18719613.css.map": "/portfolio-website-23/static/css/main.18719613.css.map",
+    "main.f4bbdbde.js.map": "/portfolio-website-23/static/js/main.f4bbdbde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18719613.css",
+    "static/js/main.f4bbdbde.js"
+  ]
+}
