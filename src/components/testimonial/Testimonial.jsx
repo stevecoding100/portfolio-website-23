@@ -17,7 +17,8 @@ const data = [
   {
     avatar: AVTR1,
     name: "Bryan",
-    review: "",
+    review:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquod eaque alias temporibus. Corrupti sequi possimus magni totamveniam",
   },
   {
     avatar: AVTR2,
