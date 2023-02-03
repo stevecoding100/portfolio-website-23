@@ -16,21 +16,21 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Bryan",
+    name: "Bryan - Senior Developer",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquod eaque alias temporibus. Corrupti sequi possimus magni totamveniam",
+      "Great job Steve! I like that he is open to feedback and has great problem solve skills. His curiosity to learn more and come up with solutions really made working with Steve a breeze",
   },
   {
     avatar: AVTR2,
-    name: "Lorena",
+    name: "Lorena - Marketing Specialist",
     review:
       "Have such great talents when it comes to designing and thinking outside the box. Very punctual with assignments assigned overall I had such great experience",
   },
   {
     avatar: AVTR3,
-    name: "Nicole",
+    name: "Nicole - Photographer",
     review:
-      "I really enjoyed working with Steve. He helped me with my college photography porfolio website and some graphic design work. I like his problem solve skills and creativity.",
+      "I enjoyed working with Steve. He helped me with my college photography porfolio website and some graphic design work. I like his problem solve skills and creativity.",
   },
 ];
 
