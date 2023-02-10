@@ -36,20 +36,6 @@ const data = [
     github: "https://github.com/stevecoding100/dog-fetch-api",
     demo: "https://dog-fetch-api.netlify.app",
   },
-  {
-    id: 5,
-    image: IMG5,
-    github: "#",
-    title: "UX/UI - Chew - Case Study",
-    demo: "https://www.behance.net/gallery/144488887/Chew-Pet-Food-Mobile-App",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "UX/UI - J'ARRIVE - Case Study",
-    github: "#",
-    demo: "https://www.behance.net/gallery/142615535/J-ARRIVE-Case-Study",
-  },
 ];
 
 const Portfolio = () => {
@@ -87,6 +73,38 @@ const Portfolio = () => {
             </article>
           );
         })}
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG5} alt="chew case study" />
+          </div>
+          <h3>UX/UI - Chew - Case Study</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://www.behance.net/gallery/144488887/Chew-Pet-Food-Mobile-App"
+              className="btn btn-primary"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              See More
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG6} alt="jarrive case study" />
+          </div>
+          <h3>UX/UI - J'ARRIVE - Case Study</h3>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://www.behance.net/gallery/142615535/J-ARRIVE-Case-Study"
+              className="btn btn-primary"
+              target={"_blank"}
+              rel="noreferrer"
+            >
+              See More
+            </a>
+          </div>
+        </article>
       </div>
     </section>
   );

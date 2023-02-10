@@ -14,7 +14,7 @@
 .testimonial {
     background: var(--color-bg-variant);
     text-align: center;
-    padding: 2rem;
+    padding: 1.8rem 0 3rem 0;
     border-radius: 2rem;
     user-select: none;
 }
@@ -36,7 +36,7 @@
 
 @media screen and (max-width: 1024px) {
     .container.testimonials__container {
-        width: 60%;
+        width: 70%;
     }
 }
 
