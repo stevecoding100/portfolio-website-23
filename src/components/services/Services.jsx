@@ -44,23 +44,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>I develop the user interface.</p>
+              <p>Figma to Responsive website</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Web page development.</p>
+              <p>Design to Responsive website using React Js</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>I create UX element interactions.</p>
+              <p>Landing Page Or one page website development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>I position your company brand</p>
+              <p>Api integration </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Design and mockups of products for companies</p>
+              <p>Website Designing and Redesigning of existing websites </p>
             </li>
           </ul>
         </article>
@@ -74,23 +74,23 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Writing, reviewing, editing, and updating content for company.
+                Writing, reviewing, editing, and updating content for company
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
                 Conducting research and interviews to learn more about current
-                trends.
+                trends
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Monitoring social media and company website metrics.</p>
+              <p>Monitoring social media and company website metrics</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Utilizing SEO methods to increase site traffic.</p>
+              <p>Utilizing SEO methods to increase site traffic</p>
             </li>
           </ul>
         </article>
